@@ -1,0 +1,39 @@
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\bin\Debug\RadProject.exe
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\bin\Debug\RadProject.pdb
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\bin\Debug\RadProject.exe.config
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.csprojResolveAssemblyReference.cache
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Form1.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Form2.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Graph.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Help.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Mtrix.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.Properties.Resources.resources
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.csproj.GenerateResource.Cache
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.exe
+C:\Users\I T SCHOOL\Desktop\Mynew project\RadProject\RadProject\obj\Debug\RadProject.pdb
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\bin\Debug\RadProject.exe.config
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.exe
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.pdb
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\bin\Debug\RadProject.exe
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\bin\Debug\RadProject.pdb
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.csprojResolveAssemblyReference.cache
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Form1.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Form2.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Graph.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Help.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Mtrix.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.Properties.Resources.resources
+C:\Users\PC CENTER\Desktop\RAD\RadProject\RadProject\obj\Debug\RadProject.csproj.GenerateResource.Cache
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\bin\Debug\RadProject.exe.config
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.exe
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.pdb
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\bin\Debug\RadProject.exe
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\bin\Debug\RadProject.pdb
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.csprojResolveAssemblyReference.cache
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Form1.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Form2.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Graph.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Help.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Mtrix.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.Properties.Resources.resources
+H:\Study Area\campus documents\RAD project\RadProject\RadProject\obj\Debug\RadProject.csproj.GenerateResource.Cache

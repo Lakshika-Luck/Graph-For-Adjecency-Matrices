@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace RadProject
+{
+    public partial class Graph : Form
+    {
+        public Graph()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 F2 = new Form2();
+            F2.Show();
+
+        }
+
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Mtrix mt = new Mtrix();
+            mt.Show();
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (textBox2.Text == String.Empty)
+            {
+                textBox2.Focus();
+                errorProvider1.SetError(textBox2, "Invailid Value.please enter integer Value");
+                MessageBox.Show("invalid Enter integer Value..");
+
+            }
+            else
+            {
+                
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+             
+        }
+
+        private void textBox2_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode==Keys.Enter)
+            {
+                SendKeys.Send("{TAB}");
+            }
+        }
+    }
+}
